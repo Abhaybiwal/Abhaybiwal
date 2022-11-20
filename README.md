@@ -1,7 +1,7 @@
 ### Hi Developers 👋
-[![YouTube Badge]](https://www.youtube.com/channel/UCwCVhcBRfG_XieydABabqpw)
-[![Linkedin Badge]](https://www.linkedin.com/in/abhay-biwal-ab9663220/)
-[![Website Badge]](https://stackoverflow.com/users/20554029/abhay-biwal)
+[![YouTube]](https://www.youtube.com/channel/UCwCVhcBRfG_XieydABabqpw)
+[![Linkedin]](https://www.linkedin.com/in/abhay-biwal-ab9663220/)
+[![StackOverflow]](https://stackoverflow.com/users/20554029/abhay-biwal)
 
 I'm
 Full Stack Solution Architect
